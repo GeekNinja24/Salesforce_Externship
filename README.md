@@ -22,3 +22,4 @@ Trailhead Url: https://trailblazer.me/id/saurav24
 ![s4](https://github.com/GeekNinja24/Salesforce_Externship/assets/72194471/276e6ca4-b91c-4ed2-b8d2-f2f0f76f5232)
 ![s5](https://github.com/GeekNinja24/Salesforce_Externship/assets/72194471/a5fb13b2-43ea-45e8-a014-0f17cda9a36b)
 ![s6](https://github.com/GeekNinja24/Salesforce_Externship/assets/72194471/8a1585eb-9bf5-4552-863e-6f7f4f968e88)
+[20BCE10362.pdf](https://github.com/GeekNinja24/Salesforce_Externship/files/12163669/20BCE10362.pdf)
